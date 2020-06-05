@@ -1,4 +1,4 @@
-# Kakao arena projects
+# recommendation projects
 
 ## contributors
 * [duck9667](https://github.com/duck9667)
